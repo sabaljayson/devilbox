@@ -20,7 +20,8 @@
 ## If '.env' does not exist, copy 'env-example' to '.env'
 ##   $ cp env-example .env
 ##
-
+NEW_UID=0
+NEW_GID=0
 
 version: '2.1'
 
